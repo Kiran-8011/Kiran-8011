@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kiran-8011
+- 👋 Hi, I’m Kiran
 
 - 🌱 I’m currently learning Full stack web development
 
