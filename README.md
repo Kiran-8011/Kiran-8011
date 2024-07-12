@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Kiran
 
-- 🌱 I’m currently learning Full stack web development
-
 - 📫 How to reach me kiran8011gupta@gmail.com
 
 <!---
